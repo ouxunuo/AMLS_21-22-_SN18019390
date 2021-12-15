@@ -13,14 +13,14 @@ Build a classifier to identify the type of tumor in each MRI image (meningioma t
 
 ## 2. Organisation of the files
 
-### image_pre_process
+### 2.1 image_pre_process
 This folder contains two files that could process the raw data and split them into 4 labels
 
-### Dataset
-The processed image set is given, you could download them to your PC directly and enter the local path in each file.
+### 2.2 Dataset
+The processed image set is given, you could download them to your PC  from these URL directly and enter the local path in each file.
 #### Task_A_image: 
 #### Task_B_train_image:
 #### Task_B_test_image:
 
-### Task_A
+### 2.3 Task_A
 Including a SVM model file for binary classification
