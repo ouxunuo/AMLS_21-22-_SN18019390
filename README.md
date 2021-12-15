@@ -37,7 +37,8 @@ After finishing the code, the output folder would be in the same position as the
 ### 3.2 Task_A
 I strongly recommend you download the dataset by URL in 2.2, and copy the path to the correct position in the code. Then follow the running sequence in jupyter notebook.
 ### 3.3 Task_B
-I strongly recommend you download the dataset by URL in 2.2, and copy the path to the correct position in the code. Then follow the running sequence in jupyter notebook.
+I strongly recommend you download the dataset by URL in 2.2, and copy the path to the correct position in the code. Then follow the running sequence in jupyter notebook.  
+For the three model, you could only choose one model to run and jump to prediction till end. To run other ones, you need to restart kernel and clear the output and run code from begining to end.
 
 ## 4. Necessary packages
 Please see <package.txt> above, it contains all the version of packages.
@@ -47,6 +48,6 @@ TensorFlow-gup == 2.5.0
 Keras == 2.5.0  
 matplotlib == 3.5.0  
 numpy == 1.19.5  
-OpenCV  
-pandas  
+OpenCV == 4.5.4.60  
+pandas == 1.3.4  
 ...
