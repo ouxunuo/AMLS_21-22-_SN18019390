@@ -32,11 +32,14 @@ Including a CNN model file (jupyter notebook) for multiclass classification
 All program files are using jupyter notebook with Python 3.8.5
 
 ### 3.1 image_pre_process
+Runnging `data_process_for_train.ipynb` and `data_process_for_test.ipynb`  
 Before running the code, make sure you have downloaded the given training set and testing set. Then start the file with jupyter notebook and follow the instruction in it.  
 After finishing the code, the output folder would be in the same position as the folder path of the code.
 ### 3.2 Task_A
+Running `SVM_model.ipynb`  
 I strongly recommend you download the dataset by URL in 2.2, and copy the path to the correct position in the code. Then follow the running sequence in jupyter notebook.
 ### 3.3 Task_B
+Running `CNN_model.ipynb`  
 I strongly recommend you download the dataset by URL in 2.2, and copy the path to the correct position in the code. Then follow the running sequence in jupyter notebook.  
 For the three model, you could only choose one model to run and jump to prediction till end. To run other ones, you need to restart kernel and clear the output and run code from begining to end.
 
