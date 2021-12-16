@@ -41,7 +41,7 @@ I strongly recommend you download the dataset by URL in 2.2, and copy the path t
 For the three model, you could only choose one model to run and jump to prediction till end. To run other ones, you need to restart kernel and clear the output and run code from begining to end.
 
 ## 4. Necessary packages
-Please see <package.txt> above, it contains all the version of packages.
+Please see `package.txt` above, it contains all the version of packages.
 ### Core packages
 Python == 3.8.5  
 TensorFlow-gup == 2.5.0  
